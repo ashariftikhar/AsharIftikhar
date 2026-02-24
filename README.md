@@ -69,10 +69,12 @@ Everything I build is architected for:
 ### 📊 GitHub & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashariftikhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashariftikhar&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
+</p>
 ---
 
 ### 🔭 Current Focus
