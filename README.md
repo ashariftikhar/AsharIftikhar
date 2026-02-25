@@ -15,7 +15,7 @@
 <!-- Social badges -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ff9800?style=for-the-badge)](https://ashir-iftikhar.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ff9800?style=for-the-badge)](https://ashariftikhar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsharIftikkhar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialashii72@gmail.com)
@@ -134,8 +134,8 @@ I'm open to:
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-ff9800?style=for-the-badge)](mailto:officialashii72@gmail.com)
-[![View Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://ashir-iftikhar.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-ff9800?style=for-the-badge)](https://calendly.com/ashariftikhar)
+[![View Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://ashariftikhar.vercel.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 
 </div>
