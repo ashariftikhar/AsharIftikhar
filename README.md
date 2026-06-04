@@ -15,7 +15,6 @@
 <!-- Social badges -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ff9800?style=for-the-badge)](https://ashariftikhar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsharIftikkhar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialashii72@gmail.com)
