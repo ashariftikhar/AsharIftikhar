@@ -134,7 +134,6 @@ I'm open to:
 <div align="center">
 
 [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-ff9800?style=for-the-badge)](https://calendly.com/ashariftikhar)
-[![View Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://ashariftikhar.vercel.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 
 </div>
