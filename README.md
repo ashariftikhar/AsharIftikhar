@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsharIftikkhar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialashii72@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashar@ashflow.site)
 [![Profile Views](https://komarev.com/ghpvc/?username=ashariftikhar&style=for-the-badge&color=ff9800&label=PROFILE+VIEWS)](https://github.com/ashariftikhar)
 
 </div>
@@ -90,17 +90,6 @@ const ashar = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashariftikhar&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=ff9800" width="95%"/>
 </div>
-
----
-
-## 🔭 Currently Building
-
-| Project | What It Does | Status |
-|---------|-------------|--------|
-| 🌐 **Professionals Portfolio** | Open-source portfolio template · Lighthouse 95+ | ✅ Live |
-| 🤖 **AI Workflow Engine** | Automating client reporting with n8n + OpenAI | 🚧 In Progress |
-| 🧩 **Component Library** | Reusable, high-performance frontend components | 🚧 In Progress |
-| 📊 **Growth Stack Framework** | Merging dev + marketing into one system | 📐 Planning |
 
 ---
 
