@@ -84,7 +84,7 @@ const ashar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=ashariftikhar&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=ff9800&rank=B,A,S,SS,SSS" width="95%"/>
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=ashariftikhar&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7&title_color=ff9800" width="95%"/>
 </div>
 
 ---
