@@ -24,41 +24,9 @@
 
 ---
 
-## 🏆 GitHub Trophies & Milestones
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashariftikhar&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="Ashar Iftikhar's GitHub Trophies" width="100%"/>
-  </a>
-</div>
-
----
-
-## 📊 Activity & Contribution Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ashariftikhar&show_icons=true&theme=github_dark&border_color=ff9800&icon_color=ff9800&title_color=ff9800&hide_border=false&count_private=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashariftikhar&layout=compact&theme=github_dark&border_color=ff9800&title_color=ff9800&hide_border=false" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashariftikhar&theme=github-dark-blue&border=ff9800&ring=ff9800&fire=ff9800&currStreakLabel=ff9800&sideNums=ffffff&dates=8b949e" width="75%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashariftikhar&theme=github-compact&color=ff9800&line=ff9800&point=ffffff&area=true&hide_border=false" width="95%"/>
-</div>
-
----
-
 ## ⚡ What I Actually Do
 
-I don't build websites. I build **revenue-generating digital systems** - where code, automation, and strategy work together so that your business scales without adding headcount.
+I don't build websites. I build **revenue-generating digital systems** — where code, automation, and strategy work together so that your business scales without adding headcount.
 
 ```javascript
 const ashar = {
@@ -72,7 +40,7 @@ const ashar = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -97,19 +65,47 @@ const ashar = {
 
 ---
 
-## 💡 How I Think About Systems
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ashariftikhar&show_icons=true&theme=github_dark&border_color=ff9800&icon_color=ff9800&title_color=ff9800&hide_border=false&count_private=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashariftikhar&layout=compact&theme=github_dark&border_color=ff9800&title_color=ff9800&hide_border=false" height="170"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashariftikhar&theme=github-dark-blue&border=ff9800&ring=ff9800&fire=ff9800&currStreakLabel=ff9800" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashariftikhar&theme=github-compact&color=ff9800&line=ff9800&point=ffffff&area=true&hide_border=false" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashariftikhar&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=ff9800" width="95%"/>
+</div>
+
+---
+
+## 🧠 How I Think About Systems
 
 ```
-Problem ──> Architecture ──> Build ──> Automate ──> Measure ──> Scale
+Problem → Architecture → Build → Automate → Measure → Scale
 ```
 
 Most developers stop at **Build**. I don't.
 
 Every project I ship is designed with:
-- ⚡ **Performance first** - if it's slow, it's broken
-- 🤖 **Automation hooks** - so it scales without manual work
-- 📈 **Growth alignment** - every element serves a revenue goal
-- 📊 **Measurability** - if you can't measure it, you can't improve it
+- ⚡ **Performance first** — if it's slow, it's broken
+- 🔗 **Automation hooks** — so it scales without manual work
+- 📈 **Growth alignment** — every element serves a revenue goal
+- 🧪 **Measurability** — if you can't measure it, you can't improve it
 
 ---
 
@@ -117,16 +113,16 @@ Every project I ship is designed with:
 
 I'm open to:
 
-- 🚀 **Freelance projects** - web apps, automation systems, landing pages
-- 💼 **Full-time roles** - full stack, frontend, or automation engineering
-- 🛠️ **Open source collabs** - if you're building something meaningful
-- ✍️ **Technical writing** - dev tutorials, automation guides
+- 💼 **Freelance projects** — web apps, automation systems, landing pages
+- 🧑‍💻 **Full-time roles** — full stack, frontend, or automation engineering
+- 🌍 **Open source collabs** — if you're building something meaningful
+- 📢 **Technical writing** — dev tutorials, automation guides
 
 **Response time:** Usually within 24 hours.
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/🚀_Hire_Me-ff9800?style=for-the-badge)](https://calendly.com/ashariftikhar)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-ff9800?style=for-the-badge)](https://calendly.com/ashariftikhar)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 
 </div>
@@ -139,5 +135,5 @@ I'm open to:
 </div>
 
 <div align="center">
-  <sub>⭐ If any of my repos helped you - a star goes a long way. Thank you.</sub>
+  <sub>⭐ If any of my repos helped you — a star goes a long way. Thank you.</sub>
 </div>
