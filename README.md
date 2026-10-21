@@ -1,12 +1,12 @@
 <!-- Header Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashar%20Iftikhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Digital%20Growth%20Systems&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashar%20Iftikhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Digital%20Growth%20Systems&descAlignY=55&descSize=16" alt="Ashar Iftikhar — Full Stack Developer & AI Automation Architect" width="100%"/>
 </div>
 
 <!-- Typing animation headline -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF9800&center=true&vCenter=true&width=700&lines=I+build+systems+that+make+money+while+you+sleep.;Web+Dev+%2B+AI+Automation+%2B+Growth+Strategy.;Code+is+leverage.+Automation+is+scale.;Open+to+freelance+%26+collaboration." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF9800&center=true&vCenter=true&width=700&lines=I+build+systems+that+make+money+while+you+sleep.;Web+Dev+%2B+AI+Automation+%2B+Growth+Strategy.;Code+is+leverage.+Automation+is+scale.;Open+to+freelance+%26+collaboration." alt="Ashar Iftikhar — Web Dev, AI Automation & Growth Strategy" />
   </a>
 </div>
 
@@ -17,6 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashariftikharofficial)
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsharIftikkhar)
+[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/ashariftikharofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashar@ashflow.site)
 [![Profile Views](https://komarev.com/ghpvc/?username=ashariftikhar&style=for-the-badge&color=ff9800&label=PROFILE+VIEWS)](https://github.com/ashariftikhar)
 
@@ -26,10 +27,11 @@
 
 ## ⚡ What I Actually Do
 
-I don't build websites. I build **revenue-generating digital systems** - where code, automation, and strategy work together so that your business scales without adding headcount.
+I'm **Ashar Iftikhar** — I don't build websites. I build **revenue-generating digital systems** - where code, automation, and strategy work together so that your business scales without adding headcount.
 
 ```javascript
 const ashar = {
+  name:       "Ashar Iftikhar",
   role:       "Full Stack Developer & Automation Architect",
   location:   "Pakistan 🇵🇰",
   focus:      ["Web Applications", "AI Automation", "Growth Systems"],
@@ -127,9 +129,15 @@ I'm open to:
 
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Ashar Iftikhar Footer" width="100%"/>
 </div>
 
 <div align="center">
+  <a href="https://github.com/ashariftikhar">
+    <img src="./ashar-iftikhar.jpg" alt="Ashar Iftikhar" title="Ashar Iftikhar — Full Stack Developer & AI Automation Architect" width="64" height="64" style="border-radius: 50%;" />
+  </a>
+  <br/>
+  <sub><a href="https://github.com/ashariftikhar"><strong>Ashar Iftikhar</strong></a> · <a href="https://gravatar.com/ashariftikharofficial">Gravatar</a> · <a href="https://www.linkedin.com/in/ashariftikharofficial">LinkedIn</a></sub>
+  <br/>
   <sub>⭐ If any of my repos helped you - a star goes a long way. Thank you.</sub>
 </div>
