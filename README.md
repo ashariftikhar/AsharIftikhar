@@ -134,7 +134,7 @@ I'm open to:
 
 <div align="center">
   <a href="https://github.com/ashariftikhar">
-    <img src="./ashar-iftikhar.jpg" alt="Ashar Iftikhar" title="Ashar Iftikhar — Full Stack Developer & AI Automation Architect" width="64" height="64" style="border-radius: 50%;" />
+    <img src="./ashar-iftikhar.jpg" alt="Ashar Iftikhar" title="Ashar Iftikhar — Full Stack Developer & AI Automation Architect" width="120" height="120" style="border-radius: 50%;" />
   </a>
   <br/>
   <sub><a href="https://github.com/ashariftikhar"><strong>Ashar Iftikhar</strong></a> · <a href="https://gravatar.com/ashariftikharofficial">Gravatar</a> · <a href="https://www.linkedin.com/in/ashariftikharofficial">LinkedIn</a></sub>
