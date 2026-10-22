@@ -27,16 +27,33 @@
 
 ## ⚡ What I Actually Do
 
-I don't build websites. I build **revenue-generating digital systems** - where code, automation, and strategy work together so that your business scales without adding headcount.
+> **Brochure websites are dead.** I engineer **autonomous revenue systems** where sub-second web platforms, 24/7 AI agents, and backend CRM workflows operate as one machine—so businesses scale without adding headcount.
 
-```javascript
-const ashar = {
-  name:       "Ashar Iftikhar",
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · High-Speed Web</h3>
+      <p>Sub-second <b>Next.js 14</b> platforms engineered for conversion, technical SEO, and AI Answer Engines.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · 24/7 AI Agents</h3>
+      <p>Omnichannel <b>Web & WhatsApp AI receptionists</b> that qualify buyers and book calendar slots in <b>&lt;15 seconds</b>.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Autonomous Ops</h3>
+      <p>End-to-end <b>n8n + CRM pipelines</b> that eliminate manual admin, recover lost leads, and automate follow-ups.</p>
+    </td>
+  </tr>
+</table>
+
+```typescript
+const ashflow: SystemArchitect = {
+  architect:  "Ashar Iftikhar",
   role:       "Founder & AI Systems Architect @ Ashflow",
   website:    "https://ashflow.site",
-  markets:    ["UAE", "UK", "USA", "Canada"],
-  systems:    ["Autonomous AI Agents", "Next.js Platforms", "n8n & CRM Infrastructure"],
-  philosophy: "Every line of code should serve a measurable business outcome."
+  markets:    ["UAE 🇦🇪", "UK 🇬🇧", "USA 🇺🇸", "Canada 🇨🇦"],
+  sla:        { speedToLead: "< 15s", availability: "24/7/365", bloat: "0 KB" },
+  philosophy: "Every line of code must drive a measurable revenue outcome."
 };
 ```
 
