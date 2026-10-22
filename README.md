@@ -68,18 +68,6 @@
 
 ---
 
-## 🚀 Flagship Systems & Production Impact
-
-| System | Core Architecture | Verified Production Outcome |
-| :--- | :--- | :--- |
-| **[Ashflow Chatlayer](https://chat.ashflow.site)** | Next.js, Edge Runtime, Grounded RAG Copilot | **~14KB** omnichannel AI inbox unifying Web Chat, WhatsApp, Instagram & Email |
-| **[Ashflow Clinic OS](https://ashflow.site)** | 24/7 AI WhatsApp Receptionist + Calendar Sync | Reduced patient no-shows from **32% to <10%** (~**$15,000/mo** recovered revenue) |
-| **[Ashflow LeadFlow](https://ashflow.site)** | n8n, OpenAI, WhatsApp Cloud API, HubSpot | **<15s** 24/7 lead qualification & routing; **+34%** broker deal close rate |
-| **[Ashflow RetainKit](https://ashflow.site)** | On-Site AI Assistant + Multi-Channel Webhooks | **$6,000** recovered in Month 1 via automated WhatsApp & email cart recovery |
-| **[Cloud Agent System](https://github.com/ashariftikhar/cloud-agent-system)** | Distributed Agent Runtime & CRM Sync Toolkit | Autonomous task scheduling, multi-step agent execution & pipeline sync |
-
----
-
 ## 📊 GitHub Stats & Streak
 
 <div align="center">
