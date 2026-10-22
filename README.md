@@ -53,12 +53,24 @@ const ashar = {
 
 ---
 
+## 🚀 Flagship Systems & Production Impact
+
+| System | Core Architecture | Verified Production Outcome |
+| :--- | :--- | :--- |
+| **[Ashflow Chatlayer](https://chat.ashflow.site)** | Next.js, Edge Runtime, Grounded RAG Copilot | **~14KB** omnichannel AI inbox unifying Web Chat, WhatsApp, Instagram & Email |
+| **[Ashflow Clinic OS](https://ashflow.site)** | 24/7 AI WhatsApp Receptionist + Calendar Sync | Reduced patient no-shows from **32% to <10%** (~**$15,000/mo** recovered revenue) |
+| **[Ashflow LeadFlow](https://ashflow.site)** | n8n, OpenAI, WhatsApp Cloud API, HubSpot | **<15s** 24/7 lead qualification & routing; **+34%** broker deal close rate |
+| **[Ashflow RetainKit](https://ashflow.site)** | On-Site AI Assistant + Multi-Channel Webhooks | **$6,000** recovered in Month 1 via automated WhatsApp & email cart recovery |
+| **[Cloud Agent System](https://github.com/ashariftikhar/cloud-agent-system)** | Distributed Agent Runtime & CRM Sync Toolkit | Autonomous task scheduling, multi-step agent execution & pipeline sync |
+
+---
+
 ## 📊 GitHub Stats & Streak
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ashariftikhar&show_icons=true&theme=github_dark&border_color=ff9800&icon_color=ff9800&title_color=ff9800&hide_border=false&count_private=true" alt="Ashar Iftikhar GitHub Stats" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashariftikhar&layout=compact&theme=github_dark&border_color=ff9800&title_color=ff9800&hide_border=false" alt="Ashar Iftikhar Top Languages" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashariftikhar&layout=compact&theme=github_dark&border_color=ff9800&title_color=ff9800&hide_border=false&hide=html,css" alt="Ashar Iftikhar Top Languages" height="170"/>
 </div>
 
 <br/>
