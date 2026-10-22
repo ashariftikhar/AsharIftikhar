@@ -46,15 +46,13 @@
   </tr>
 </table>
 
-```typescript
-const ashflow: SystemArchitect = {
-  architect:  "Ashar Iftikhar",
-  role:       "Founder & AI Systems Architect @ Ashflow",
-  website:    "https://ashflow.site",
-  markets:    ["UAE 🇦🇪", "UK 🇬🇧", "USA 🇺🇸", "Canada 🇨🇦"],
-  sla:        { speedToLead: "< 15s", availability: "24/7/365", bloat: "0 KB" },
-  philosophy: "Every line of code must drive a measurable revenue outcome."
-};
+```diff
+# ASHFLOW AUTONOMOUS RUNTIME — PRODUCTION TELEMETRY
++ ARCHITECT      : Ashar Iftikhar (Founder & AI Systems Architect @ Ashflow)
++ ENDPOINT       : https://ashflow.site | https://chat.ashflow.site
++ ACTIVE MARKETS : UAE (Dubai) · UK (London) · USA · Canada
++ RESPONSE SLA   : < 15s Omnichannel AI Qualification (24/7/365)
++ DIRECTIVE      : Every line of code must drive a measurable revenue outcome.
 ```
 
 ---
